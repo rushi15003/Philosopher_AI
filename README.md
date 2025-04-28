@@ -21,9 +21,8 @@ This project demonstrates a **philosophy-focused conversational chatbot** traine
 | Python | Data cleaning, transformation |
 | BeautifulSoup | Web scraping |
 | Huggingface Transformers | Fine-tuning LLM |
-| DeepSpeed / FSDP | Distributed training |
 | JSON / JSONL | Data storage format |
-| Gradio (optional) | Local chatbot testing |
+
 
 ---
 
