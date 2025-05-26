@@ -59,7 +59,7 @@ This project demonstrates a **philosophy-focused conversational chatbot** traine
 ## 📨 Contact
 Feel free to reach out for collaborations, discussions, or improvements!
 
-> ✉️ [YourEmail@example.com](rushisutar15@gmail.com)  
+> ✉️ [Email](rushisutar15@gmail.com)  
 > 🔗  [GitHub](https://github.com/rushi15003)
 
 ---
